@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/obj/Debug/BerlinClock.csprojAssemblyReference.cache
+/bin/Debug
+/obj/Debug
+/packages
